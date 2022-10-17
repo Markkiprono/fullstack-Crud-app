@@ -1,0 +1,40 @@
+{
+  
+  "name": "server",
+  
+  "version": "1.0.0",
+  
+  "description": "Back-end for the To-D0 app",
+  
+  "main": "app.js",
+  
+  "dependencies": {
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "dotenv": "^16.0.3",
+  
+    
+  "express": "^4.18.1",
+  
+    
+  "mongoose": "^6.6.5",
+  
+    
+  "nodemon": "^2.0.19"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "start": "nodemon app.js"
+  
+  },
+  
+  "author": "Mark Kiprono",
+  
+  "license": "ISC"
+}
